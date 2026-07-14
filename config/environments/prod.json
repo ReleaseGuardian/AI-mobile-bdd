@@ -1,0 +1,9 @@
+{
+  "env": "prod",
+  "timeouts": {
+    "waitForTimeout": 20000,
+    "stepTimeout": 90000
+  },
+  "apiBaseUrl": "https://api.example.com",
+  "appVersion": "prod-latest"
+}

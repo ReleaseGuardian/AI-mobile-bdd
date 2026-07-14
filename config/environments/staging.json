@@ -1,0 +1,9 @@
+{
+  "env": "staging",
+  "timeouts": {
+    "waitForTimeout": 15000,
+    "stepTimeout": 60000
+  },
+  "apiBaseUrl": "https://staging-api.example.com",
+  "appVersion": "staging-latest"
+}
