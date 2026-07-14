@@ -1,0 +1,11 @@
+node_modules/
+dist/
+reports/json/
+reports/html/
+reports/logs/
+.env
+.env.local
+apps/android/*.apk
+apps/ios/*.ipa
+*.log
+.DS_Store
